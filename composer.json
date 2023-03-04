@@ -1,7 +1,7 @@
 {
-    "name": "infyomlabs/adminlte-templates",
+    "name": "dynamictechit/adminlte-templates-1",
     "type": "library",
-    "description": "AdminLTE templates for InfyOm Laravel Generator",
+    "description": "AdminLTE templates for BizModo Laravel Generator",
     "keywords": [
         "infyom",
         "laravel",
@@ -13,8 +13,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Mitul Golakiya",
-            "email": "me@mitul.me"
+            "name": "DynamicTech",
+            "email": "info@dynamictech.ae"
         }
     ],
     "require": {
